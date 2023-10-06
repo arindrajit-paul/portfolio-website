@@ -300,10 +300,16 @@ section {
   width: 90%;
 }
 .about-stats .progress-bars .progress-bar .prog-container .progress .prog-3 {
-  width: 60%;
+  width: 70%;
 }
 .about-stats .progress-bars .progress-bar .prog-container .progress .prog-4 {
   width: 80%;
+}
+.about-stats .progress-bars .progress-bar .prog-container .progress .prog-5 {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .prog-container .progress .prog-6 {
+  width: 40%;
 }
 
 .stat-title {
